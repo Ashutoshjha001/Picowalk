@@ -1,5 +1,5 @@
 # Picowalk
-Free Minded guy Enjoying Dodging the ball underneath the hot sun while listening the music.
+Free Minded guy Enjoy Dodging the ball underneath the hot sun while listening the music.
 
 Fully Understanding of algorithm to let every steps possible in the game.
 
